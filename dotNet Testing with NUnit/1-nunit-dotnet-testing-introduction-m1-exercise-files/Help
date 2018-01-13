@@ -1,0 +1,17 @@
+# How to Create New Test Project to our Solution
+1. In Solution Explorer Pannel click right mouse button on the Solution <Project Name>
+2. In Context Menu select Add->New Project
+3. In Add New Project popup window select Visual C# -> Class Library
+4. Enter name <Project.Tests> and click OK
+
+#How to Add References to our Project
+1. Click Right mouse button on the References
+2. In Context Menu select Add References
+3. In Solution menu check your <Project> and click ok
+
+#How to install NUnit
+1. Click Right mouse button on the References
+2. In Context Menu select Manage NuGet Packages
+3. In Open window enter nunit in Search area
+4. Click on Nunit and install it
+5. Click on NUnit3TestAdapter and install it
